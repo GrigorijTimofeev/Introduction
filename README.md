@@ -2,7 +2,7 @@
 
 - (Add smth here)
 
-- 📫 e-mail (grigorij.timofeev.2000@gmail.com), watsup (+79605023030)
+- 📫 e-mail (grigorij.timofeev.2000@gmail.com), WhatsApp (+79605023030)
 
 <!---
 GrigorijTimofeev/GrigorijTimofeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
