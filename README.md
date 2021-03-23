@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @GrigorijTimofeev
-(Add smth here)
+
+- (Add smth here)
+
 - 📫 e-mail (grigorij.timofeev.2000@gmail.com), watsup (+79605023030)
 
 <!---
