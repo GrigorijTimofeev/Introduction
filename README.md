@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrigorijTimofeev
+- 👋 Hi, I’m Grigorij Timofeev. Begginer developer and programer
 
 - (Add smth here)
 
